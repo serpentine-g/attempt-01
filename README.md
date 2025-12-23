@@ -26,7 +26,6 @@ Our 4B-parameter model generates high-resolution fully textured assets with exce
 | **1024³** | **~17s** | 10s + 7s |
 | **1536³** | **~60s** | 35s + 25s |
 
-<small>*Tested on NVIDIA H100 GPU.</small>
 
 ### 2. Arbitrary Topology Handling
 The **O-Voxel** representation breaks the limits of iso-surface fields. It robustly handles complex structures without lossy conversion:
